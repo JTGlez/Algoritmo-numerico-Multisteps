@@ -1,4 +1,4 @@
-# Algoritmo-numerico-Multisteps
+# Algoritmo numérico Multisteps
 Algoritmo numérico Multipasos para la resolución de Ecuaciones Diferenciales.
 
 > Este proyecto es parte del curso de Análisis Numérico de la Facultad de Ingeniería, UNAM. Implementa el algoritmo Multipasos para la resolución de EDOs
