@@ -1,5 +1,5 @@
 # Algoritmo numérico Multisteps
-Algoritmo numérico Multipasos para la resolución de Ecuaciones Diferenciales.
+Algoritmo numérico Multipasos para la resolución de Ecuaciones Diferenciales Ordinarios.
 
 > Este proyecto es parte del curso de Análisis Numérico de la Facultad de Ingeniería, UNAM. Implementa el algoritmo Multipasos para la resolución de EDOs
 por medio de la aplicación de los métodos de Runge-Kutta hasta el 4to orden y el método predictor-corrector de 4to orden de Adams-Bashfort-Moulton.
